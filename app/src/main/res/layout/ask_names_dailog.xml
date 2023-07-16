@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/aleartdailog_color_blue">
+    <TextView
+        android:id="@+id/dialog_button_heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/enternames"
+        android:textSize="@dimen/sp35"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="@dimen/dp10"
+        android:layout_marginBottom="@dimen/dp10"
+        />
+    <TextView
+        android:id="@+id/crosssymbol_in_dailog"
+        android:layout_width="@dimen/dp100"
+        android:layout_height="@dimen/dp100"
+        android:text="@string/cross"
+        android:gravity="center"
+        android:layout_below="@id/dialog_button_heading"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="@dimen/dp10"
+        android:textSize="@dimen/sp80"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/CrossRedColor"
+        android:background="@drawable/background_for_icons"/>
+
+    <TextView
+        android:id="@+id/O_symbol_in_dailog"
+        android:layout_width="@dimen/dp100"
+        android:layout_height="@dimen/dp100"
+        android:text="@string/O"
+        android:gravity="center"
+        android:layout_below="@id/dialog_button_heading"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="@dimen/dp10"
+        android:textSize="@dimen/sp80"
+        android:textColor="@color/OGreenColor"
+        android:background="@drawable/background_for_icons"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_below="@id/crosssymbol_in_dailog"
+        >
+        <EditText
+            android:id="@+id/cross_player_name"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dp50"
+            android:layout_weight="1"
+            android:textColor="@color/white"
+            android:hint="@string/enter_name"
+            android:textColorHint="@color/grayBackground"
+            android:inputType="text"
+            android:layout_margin="@dimen/dp10"
+            />
+        <EditText
+            android:id="@+id/O_player_name"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dp50"
+            android:layout_weight="1"
+            android:textColor="@color/white"
+            android:hint="@string/enter_name"
+            android:textColorHint="@color/grayBackground"
+            android:inputType="text"
+            android:layout_margin="@dimen/dp10"
+            />
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

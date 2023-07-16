@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="cross">X</string>
+    <string name="O">O</string>
+    <string name="offline">Offline</string>
+    <string name="Online">Online</string>
+    <string name="youvsai">You v/s Ai</string>
+    <string name="go">Go</string>
+    <string name="playmode">play mode</string>
+    <string name="enternames">Enter your names</string>
+    <string name="enter_name">Enter name</string>
+    <string name="won">Won</string>
+    <string name="PlayAgain">Play Again</string>
+    <string name="nextRound">Next Round</string>
+</resources>

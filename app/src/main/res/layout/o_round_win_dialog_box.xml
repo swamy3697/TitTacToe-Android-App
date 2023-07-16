@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dp10"
+    android:background="@drawable/background_for_alert_dailog"
+    >
+    <TextView
+        android:id="@+id/some2"
+        android:layout_width="@dimen/dp100"
+        android:layout_height="@dimen/dp100"
+        android:gravity="center"
+        android:text="O"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="@dimen/dp20"
+        android:textSize="@dimen/sp80"
+        android:textColor="@color/OGreenColor"
+        android:background="@drawable/background_for_icons"/>
+    <TextView
+        android:id="@+id/RoundwinnerText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/some2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/dp10"
+        android:layout_marginTop="@dimen/dp10"
+        android:layout_marginEnd="@dimen/dp10"
+        android:layout_marginBottom="@dimen/dp10"
+        android:text="Won"
+        android:textAlignment="center"
+        android:textColor="@color/winnerColor"
+        android:textSize="@dimen/big"
+        android:textStyle="bold" />
+
+</RelativeLayout>

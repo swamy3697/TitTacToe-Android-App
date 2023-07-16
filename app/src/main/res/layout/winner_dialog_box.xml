@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dp10"
+    android:background="@drawable/background_for_alert_dailog"
+    >
+
+    <ImageView
+        android:id="@+id/winnerGif"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:adjustViewBounds="true"
+        android:src="@drawable/winner" />
+    <TextView
+        android:id="@+id/crossiconInWinnerDailog"
+        android:layout_width="@dimen/dp100"
+        android:layout_height="@dimen/dp100"
+        android:text="@string/cross"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/winnerGif"
+        android:layout_marginTop="@dimen/dp20"
+        android:textSize="@dimen/sp80"
+        android:textColor="@color/CrossRedColor"
+        android:background="@drawable/background_for_icons"/>
+
+    <TextView
+        android:id="@+id/winnerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/crossiconInWinnerDailog"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/dp10"
+        android:layout_marginTop="@dimen/dp10"
+        android:layout_marginEnd="@dimen/dp10"
+        android:layout_marginBottom="@dimen/dp10"
+        android:text="swamy Won"
+        android:textAlignment="center"
+        android:textColor="@color/winnerColor"
+        android:textSize="@dimen/big"
+        android:textStyle="bold" />
+    <Button
+        android:id="@+id/palyAgain"
+        android:layout_width="@dimen/btnWidth"
+        android:layout_height="@dimen/dp70"
+        android:text="@string/PlayAgain"
+        android:textSize="@dimen/sp30"
+        android:textColor="@color/white"
+        android:background="@drawable/roundedbtn"
+        android:layout_below="@id/winnerText"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="@dimen/dp20"
+        />
+
+</RelativeLayout>
