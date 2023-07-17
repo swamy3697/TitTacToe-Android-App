@@ -36,7 +36,7 @@ Please note that there may be some minor bugs in the game. We appreciate your un
 
 
 
-![App Screenshot](https://imgur.com/a/ffTxGrx)
+![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/ic_launcherpng.png)
 
 
 ## Contributing
