@@ -36,7 +36,25 @@ Please note that there may be some minor bugs in the game. We appreciate your un
 
 
 
+
+
 ![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/ic_launcherpng.png)
+
+
+![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/TitTacToe-Home%20page.jpg)
+
+![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/TitTacToe-.jpg)
+
+![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/TitTacToe-.jpg)
+
+
+![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/TitTacToe-2.jpg)
+
+
+![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/TitTacToe-Game%20mode.jpg)
+
+
+
 
 
 ## Contributing
