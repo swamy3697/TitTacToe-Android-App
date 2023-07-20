@@ -31,23 +31,20 @@ Please note that there may be some minor bugs in the game. We appreciate your un
 
 ## Screenshots
 
-#LOGO
+
 ![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/ic_launcherpng.png)
 
-#Game Mode
+
 ![App Screenshot](https://github.com/swamy3697/for-ReadMe-Files/blob/main/TicTacToe%20files/titacToe-1.jpg)
 
 
-#Enter Names
+
 ![App Screenshot](https://github.com/swamy3697/for-ReadMe-Files/blob/main/TicTacToe%20files/enterNames.jpg)
 
-#Game
 ![App Screenshot](https://github.com/swamy3697/for-ReadMe-Files/blob/main/TicTacToe%20files/gameBord.jpg)
 
-#Cross Win
 ![App Screenshot](https://github.com/swamy3697/for-ReadMe-Files/blob/main/TicTacToe%20files/titTacToe.jpg)
 
-#Draw
 ![App Screenshot](https://github.com/swamy3697/for-ReadMe-Files/blob/main/TicTacToe%20files/DrawImagejpg.jpg)
 
 
