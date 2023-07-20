@@ -9,9 +9,6 @@ This project aims to provide a fun and engaging gaming experience, allowing user
 
 
 ## Features
-
-- Light/dark mode toggle
-- Live previews
 - Fullscreen mode
 - Simple and great user interface for an immersive experience.
 - Fast and interactive gameplay.
@@ -24,7 +21,7 @@ This project aims to provide a fun and engaging gaming experience, allowing user
 ## Installation
 
 To play the TicTacToe Android Game, follow these steps:
-1. Download the APK file from [this link](https://drive.google.com/file/d/1rxi1CV2bFUza0cMAeJfmd96RuCzqTTdY/view?usp=sharing).
+1. Download the APK file from [this link](https://github.com/swamy3697/for-ReadMe-Files/blob/main/TicTacToe%20files/tictactoe.apk).
 2. Transfer the APK file to your Android device.
 3. Locate the APK file on your device and install it.
 4. Launch the game and start playing!
@@ -34,24 +31,24 @@ Please note that there may be some minor bugs in the game. We appreciate your un
 
 ## Screenshots
 
-
-
-
-
+#LOGO
 ![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/ic_launcherpng.png)
 
-
-![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/TitTacToe-Home%20page.jpg)
-
-![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/TitTacToe-.jpg)
-
-![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/TitTacToe-.jpg)
+#Game Mode
+![App Screenshot](https://github.com/swamy3697/for-ReadMe-Files/blob/main/TicTacToe%20files/titacToe-1.jpg)
 
 
-![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/TitTacToe-2.jpg)
+#Enter Names
+![App Screenshot](https://github.com/swamy3697/for-ReadMe-Files/blob/main/TicTacToe%20files/enterNames.jpg)
 
+#Game
+![App Screenshot](https://github.com/swamy3697/for-ReadMe-Files/blob/main/TicTacToe%20files/gameBord.jpg)
 
-![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/TitTacToe-Game%20mode.jpg)
+#Cross Win
+![App Screenshot](https://github.com/swamy3697/for-ReadMe-Files/blob/main/TicTacToe%20files/titTacToe.jpg)
+
+#Draw
+![App Screenshot](https://github.com/swamy3697/for-ReadMe-Files/blob/main/TicTacToe%20files/DrawImagejpg.jpg)
 
 
 
