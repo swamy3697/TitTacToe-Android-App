@@ -31,6 +31,11 @@ Please note that there may be some minor bugs in the game. We appreciate your un
 
 ## Screenshots
 
+##Game play video
+
+![App Screenshot](https://github.com/swamy3697/for-ReadMe-Files/blob/main/gameplay.gif)
+
+
 
 ![App Screenshot](https://github.com/swamy3697/TitTacToe-Android-App/blob/master/ic_launcherpng.png)
 
